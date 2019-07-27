@@ -1,0 +1,11 @@
+name: BioSentVec
+
+channels:
+  - akode
+  - conda-forge
+
+dependencies:
+  - sent2vec
+  - nltk
+  - python=3.7
+  - scipy
